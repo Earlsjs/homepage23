@@ -1,7 +1,7 @@
 <html>
 <head><title>CAE homepage</title></head>
 
-<body background="images.png">
+<body background="english.png">
 
 <br>
 <br>
